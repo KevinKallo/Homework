@@ -12,4 +12,4 @@ if ( temp >= 21 && temp <= 40 ) {
 
 
 }
-checkTemp(4)
+
